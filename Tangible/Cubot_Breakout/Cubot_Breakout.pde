@@ -1,4 +1,14 @@
-//http://blog.163.com/hailin_xin/blog/static/218162190201342181943434
+/** 
+ * FlappyBirdy
+ * Ruofei Du, Fan Du
+ * HCIL, UMD
+ *
+ * License: Creative Commons Attribution-Share Alike 3.0 and GNU GPL license
+ *
+ * References:
+ * Part of the breakout game code are adopted from http://blog.163.com/hailin_xin/blog/static/218162190201342181943434
+ *
+ */
 
 float x = 300;
 float y = 300;
