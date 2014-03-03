@@ -6,7 +6,7 @@
  * License: Creative Commons Attribution-Share Alike 3.0 and GNU GPL license
  *
  * References:
- * FIgures courtesy of Jon's slides: http://www.cs.umd.edu/class/spring2014/cmsc838f/Lecture05_Sensors.pdf
+ * Figures courtesy of Jon's slides: http://www.cs.umd.edu/class/spring2014/cmsc838f/Lecture05_Sensors.pdf
  *
  */
 
